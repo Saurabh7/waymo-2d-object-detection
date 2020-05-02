@@ -1,0 +1,38 @@
+@font-face {
+	font-family: lsFont;
+	src: url(/static/styles/LifeSavers-Regular.ttf);
+}
+
+body {
+	height: 100% !important;
+	background-image: url(/static/img/bck.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner-heading {
+	margin-top: 5rem;
+	font-family: lsFont;
+	text-align: center;
+}
+
+.banner-heading > h1 {
+	font-size: 52pt;
+}
+
+.banner-heading > h3 {
+	font-size: 18pt;
+}
+
+.ppt-orange {
+	color: #fe7950;
+}
+
+.home-buttons {
+	text-align: center;
+	margin-top: 3.5rem;
+}
+
+.file-input {
+	margin-top: 3.5rem;
+}
