@@ -1,4 +1,3 @@
-# COVID-Net
 
 ### Install Flask
 ```shell
