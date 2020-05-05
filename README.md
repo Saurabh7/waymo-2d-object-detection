@@ -17,7 +17,7 @@ Install dependencies:
 Waymo 2D Dection Dataset
 Canadian Adverse Driving conditions dataset
 For the Above datasets following data processing was done:
-  Extract tfredcord files for each frame.
-  Use openwaymo dataset apis to perform cleaning.
-  Collect Labels and generate bounding boxes.
-  Use front camera images and labels to compile the dataset
+  - Extract tfredcord files for each frame.
+  - Use openwaymo dataset apis to perform cleaning.
+  - Collect Labels and generate bounding boxes.
+  - Use front camera images and labels to compile the dataset
